@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="650" viewBox="0 0 1280 650" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Gabriel Francisconi — Do problema ao sistema</title>
-  <desc id="desc">Pôster de uma oficina de software. Tipografia creme e verde ácido sobre fundo escuro, com um diagrama que conecta dados, lógica e interface. Desenvolvimento web, APIs e jogos.</desc>
+  <desc id="desc">Pôster de uma oficina de software. Tipografia creme e verde ácido sobre fundo escuro, com um diagrama que conecta dados, lógica e interface. Desenvolvimento web, APIs e automação.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#F3F0DF" stroke-opacity=".07"/></pattern>
   </defs>
@@ -32,7 +32,7 @@
   </g>
   <path d="M54 490H702" stroke="#434B3D"/>
   <g class="mono" font-size="16" letter-spacing="1" fill="#F3F0DF">
-    <text x="54" y="531">WEB</text><text x="158" y="531">APIs</text><text x="278" y="531">JOGOS</text>
+    <text x="54" y="531">WEB</text><text x="158" y="531">APIs</text><text x="278" y="531">AUTOMAÇÃO</text>
   </g>
   <g fill="#C4F464"><circle cx="134" cy="525" r="3"/><circle cx="254" cy="525" r="3"/></g>
   <g transform="translate(798 165)">
@@ -51,6 +51,6 @@
   <path d="M54 575H1226" stroke="#434B3D"/>
   <g class="mono" font-size="14" letter-spacing="1" fill="#B8C0AF">
     <text x="54" y="615">ENTENDER → CONSTRUIR → TESTAR → REFINAR</text>
-    <text x="1226" y="615" text-anchor="end">JAVA / TYPESCRIPT / GODOT</text>
+    <text x="1226" y="615" text-anchor="end">JAVA / TYPESCRIPT / SQL</text>
   </g>
 </svg>

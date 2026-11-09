@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="850" viewBox="0 0 640 850" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Gabriel Francisconi — Do problema ao sistema</title>
-  <desc id="desc">Oficina de software. Desenvolvimento web, APIs e jogos. Diagrama em camadas de interface, lógica e dados.</desc>
+  <desc id="desc">Oficina de software. Desenvolvimento web, APIs e automação. Diagrama em camadas de interface, lógica e dados.</desc>
   <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#F3F0DF" stroke-opacity=".07"/></pattern></defs>
   <style>.sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.signal{stroke-dasharray:10 140;animation:flow 12s linear infinite}@keyframes flow{to{stroke-dashoffset:-600}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}</style>
   <path fill="#171B17" d="M0 0h640v850H0z"/><path fill="#C4F464" d="M0 0h8v850H0z"/>
@@ -16,7 +16,7 @@
     <path class="signal" d="m0 48 140 70 140-70v76l-140 70L0 124v76l140 70 140-70" stroke="#F3F0DF" stroke-width="4"/>
     <g class="mono" font-size="14" letter-spacing="1" fill="#D0D5C6" text-anchor="middle"><text x="140" y="43">INTERFACE</text><text x="140" y="119">LÓGICA</text><text x="140" y="195">DADOS</text></g>
   </g>
-  <g class="mono" font-size="18" letter-spacing="1" fill="#F3F0DF"><text x="34" y="706">WEB / APIs / JOGOS</text></g>
+  <g class="mono" font-size="18" letter-spacing="1" fill="#F3F0DF"><text x="34" y="418">WEB / APIs / AUTOMAÇÃO</text></g>
   <path d="M34 752H606" stroke="#434B3D"/>
-  <g class="mono" font-size="17" letter-spacing=".5" fill="#B8C0AF"><text x="34" y="789">ENTENDER → CONSTRUIR → TESTAR → REFINAR</text><text x="34" y="821">JAVA / TYPESCRIPT / GODOT</text></g>
+  <g class="mono" font-size="17" letter-spacing=".5" fill="#B8C0AF"><text x="34" y="789">ENTENDER → CONSTRUIR → TESTAR → REFINAR</text><text x="34" y="821">JAVA / TYPESCRIPT / SQL</text></g>
 </svg>
