@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="850" viewBox="0 0 640 850" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Francisconi — Do problema ao sistema</title>
+  <desc id="desc">Oficina de software. Desenvolvimento web, APIs e jogos. Diagrama em camadas de interface, lógica e dados.</desc>
+  <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#F3F0DF" stroke-opacity=".07"/></pattern></defs>
+  <style>.sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.signal{stroke-dasharray:10 140;animation:flow 12s linear infinite}@keyframes flow{to{stroke-dashoffset:-600}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}</style>
+  <path fill="#171B17" d="M0 0h640v850H0z"/><path fill="#C4F464" d="M0 0h8v850H0z"/>
+  <g class="mono" font-size="19" letter-spacing="1" fill="#F3F0DF"><text x="34" y="49">GABRIEL FRANCISCONI</text></g>
+  <path d="M34 72H606" stroke="#434B3D"/>
+  <text x="34" y="115" class="mono" font-size="18" letter-spacing="2" fill="#B8C0AF">OFICINA DE SOFTWARE / 342</text>
+  <g class="sans" font-size="78" font-weight="900" letter-spacing="-4"><text x="29" y="209" fill="#F3F0DF">DO PROBLEMA</text><text x="29" y="291" fill="#C4F464">AO SISTEMA.</text></g>
+  <g class="sans" font-size="24" fill="#D0D5C6"><text x="34" y="346">Lógica, interface e tudo o que acontece</text><text x="34" y="380">entre uma ideia e alguém usando.</text></g>
+  <path fill="url(#grid)" d="M34 412h572v295H34z"/>
+  <g transform="translate(180 446)">
+    <g stroke="#748169" stroke-width="1.5"><path d="m0 48 140-70 140 70-140 70Z"/><path d="M0 48v26l140 70 140-70V48"/><path d="m0 124 140-70 140 70-140 70Z"/><path d="M0 124v26l140 70 140-70v-26"/><path d="m0 200 140-70 140 70-140 70Z"/><path d="M0 200v26l140 70 140-70v-26"/></g>
+    <path d="m0 48 140 70 140-70M0 124l140 70 140-70M0 200l140 70 140-70" stroke="#C4F464" stroke-width="3"/>
+    <path class="signal" d="m0 48 140 70 140-70v76l-140 70L0 124v76l140 70 140-70" stroke="#F3F0DF" stroke-width="4"/>
+    <g class="mono" font-size="14" letter-spacing="1" fill="#D0D5C6" text-anchor="middle"><text x="140" y="43">INTERFACE</text><text x="140" y="119">LÓGICA</text><text x="140" y="195">DADOS</text></g>
+  </g>
+  <g class="mono" font-size="18" letter-spacing="1" fill="#F3F0DF"><text x="34" y="706">WEB / APIs / JOGOS</text></g>
+  <path d="M34 752H606" stroke="#434B3D"/>
+  <g class="mono" font-size="17" letter-spacing=".5" fill="#B8C0AF"><text x="34" y="789">ENTENDER → CONSTRUIR → TESTAR → REFINAR</text><text x="34" y="821">JAVA / TYPESCRIPT / GODOT</text></g>
+</svg>
