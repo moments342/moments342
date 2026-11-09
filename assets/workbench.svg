@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="650" viewBox="0 0 1280 650" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Francisconi — Do problema ao sistema</title>
+  <desc id="desc">Pôster de uma oficina de software. Tipografia creme e verde ácido sobre fundo escuro, com um diagrama que conecta dados, lógica e interface. Desenvolvimento web, APIs e jogos.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#F3F0DF" stroke-opacity=".07"/></pattern>
+  </defs>
+  <style>
+    .sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}
+    .signal{stroke-dasharray:12 164;animation:flow 12s linear infinite}
+    @keyframes flow{to{stroke-dashoffset:-704}}
+    @media(prefers-reduced-motion:reduce){.signal{animation:none}}
+  </style>
+  <path fill="#171B17" d="M0 0h1280v650H0z"/>
+  <path fill="url(#grid)" d="M816 0h464v650H816z"/>
+  <path fill="#C4F464" d="M0 0h12v650H0z"/>
+  <g class="mono" font-size="17" letter-spacing="1.2">
+    <text x="54" y="55" fill="#F3F0DF">GABRIEL FRANCISCONI</text>
+    <text x="1224" y="55" fill="#C4F464" text-anchor="end">MOMENTS / 342</text>
+  </g>
+  <path d="M54 82H1226" stroke="#434B3D"/>
+  <g class="mono" font-size="14" letter-spacing="2" fill="#B8C0AF">
+    <text x="54" y="127">OFICINA DE SOFTWARE</text>
+    <text x="1226" y="127" text-anchor="end">FIG. 01 / CONSTRUÇÃO CONTÍNUA</text>
+  </g>
+  <g class="sans" font-size="93" font-weight="900" letter-spacing="-5">
+    <text x="48" y="241" fill="#F3F0DF">DO PROBLEMA</text>
+    <text x="48" y="340" fill="#C4F464">AO SISTEMA.</text>
+  </g>
+  <g class="sans" font-size="24" fill="#D0D5C6">
+    <text x="54" y="405">Lógica, interface e tudo o que acontece</text>
+    <text x="54" y="439">entre uma ideia e alguém usando.</text>
+  </g>
+  <path d="M54 490H702" stroke="#434B3D"/>
+  <g class="mono" font-size="16" letter-spacing="1" fill="#F3F0DF">
+    <text x="54" y="531">WEB</text><text x="158" y="531">APIs</text><text x="278" y="531">JOGOS</text>
+  </g>
+  <g fill="#C4F464"><circle cx="134" cy="525" r="3"/><circle cx="254" cy="525" r="3"/></g>
+  <g transform="translate(798 165)">
+    <g stroke="#748169" stroke-width="1.5">
+      <path d="M42 56 190-26 338 56 190 138Z"/><path d="M42 56v36l148 82 148-82V56"/>
+      <path d="M42 163 190 81l148 82-148 82Z"/><path d="M42 163v36l148 82 148-82v-36"/>
+      <path d="M42 270 190 188l148 82-148 82Z"/><path d="M42 270v36l148 82 148-82v-36"/>
+    </g>
+    <path d="M190-26v414M42 56v250M338 56v250" stroke="#748169" stroke-opacity=".35" stroke-dasharray="4 8"/>
+    <path d="m42 56 148 82 148-82M42 163l148 82 148-82M42 270l148 82 148-82" stroke="#C4F464" stroke-width="3"/>
+    <g fill="#171B17" stroke="#C4F464" stroke-width="2"><circle cx="42" cy="56" r="6"/><circle cx="190" cy="138" r="6"/><circle cx="338" cy="56" r="6"/><circle cx="42" cy="163" r="6"/><circle cx="190" cy="245" r="6"/><circle cx="338" cy="163" r="6"/><circle cx="42" cy="270" r="6"/><circle cx="190" cy="352" r="6"/><circle cx="338" cy="270" r="6"/></g>
+    <path class="signal" d="M42 56 190 138 338 56v107l-148 82-148-82v107l148 82 148-82" stroke="#F3F0DF" stroke-width="4"/>
+    <g class="mono" font-size="12" letter-spacing="1.5" fill="#D0D5C6"><text x="190" y="53" text-anchor="middle">INTERFACE</text><text x="190" y="160" text-anchor="middle">LÓGICA</text><text x="190" y="267" text-anchor="middle">DADOS</text></g>
+    <path d="M0 8h16M8 0v16M364 372h16M372 364v16" stroke="#C4F464"/>
+  </g>
+  <path d="M54 575H1226" stroke="#434B3D"/>
+  <g class="mono" font-size="14" letter-spacing="1" fill="#B8C0AF">
+    <text x="54" y="615">ENTENDER → CONSTRUIR → TESTAR → REFINAR</text>
+    <text x="1226" y="615" text-anchor="end">JAVA / TYPESCRIPT / GODOT</text>
+  </g>
+</svg>
